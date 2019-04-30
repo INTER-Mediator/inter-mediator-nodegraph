@@ -1,0 +1,26 @@
+{
+  "name": "inter-mediator-nodegraph",
+  "version": "1.0.0",
+  "description": "The node graph pruner of INTER-Mediator core.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-nodegraph.git"
+  },
+  "keywords": [
+    "INTER-Mediator",
+    "graph",
+    "prune"
+  ],
+  "dependencies": {
+  },
+  "author": "Masayuki Nii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INTER-Mediator/inter-mediator-nodegraph/issues"
+  },
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-nodegraph#readme"
+}
