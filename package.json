@@ -1,10 +1,11 @@
 {
   "name": "inter-mediator-nodegraph",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The node graph pruner of INTER-Mediator core.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/jest/bin/jest.js nodegraph.test.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,10 @@
     "graph",
     "prune"
   ],
-  "dependencies": {
+  "devDependencies": {
+    "jest": "*"
   },
+  "dependencies": {},
   "author": "Masayuki Nii",
   "license": "MIT",
   "bugs": {
