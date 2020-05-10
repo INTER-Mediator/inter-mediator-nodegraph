@@ -1,2 +1,2 @@
-# inter-mediator-nodegraph
+# inter-mediator-nodegraph [![Build Status](https://travis-ci.org/INTER-Mediator/inter-mediator-nodegraph.svg?branch=master)](https://travis-ci.org/github/INTER-Mediator/inter-mediator-nodegraph)
 The node graph pruner of INTER-Mediator core.
