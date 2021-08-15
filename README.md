@@ -1,2 +1,2 @@
-# inter-mediator-nodegraph [![Build Status](https://travis-ci.org/INTER-Mediator/inter-mediator-nodegraph.svg?branch=master)](https://travis-ci.org/github/INTER-Mediator/inter-mediator-nodegraph)
+# inter-mediator-nodegraph [![Build Status](https://github.com/INTER-Mediator/inter-mediator-nodegraph/actions/workflows/node.js.yml/badge.svg)](https://github.com/INTER-Mediator/inter-mediator-nodegraph/actions/workflows/node.js.yml)
 The node graph pruner of INTER-Mediator core.
